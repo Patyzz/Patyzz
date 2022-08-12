@@ -1,3 +1,6 @@
-#  Sobre mim
+#  Sobre mim;:ringed_planet:
 
-- Olá, me chamo Patrícia. 
+- :sunflower:Olá, me chamo _Patrícia;_:sunflower:
+- :pushpin: Tenho 16 anos;
+- :envelope: meu e-mail é da.cordeiro.patricia@escola.pr.gov.br;
+- :computer: estou aprendendo a programar nas linguagens de programação *JavaScript* e *Scratch*;
